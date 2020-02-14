@@ -1,0 +1,25 @@
+#main {
+    text-align: center;
+    
+  }
+  
+  #title {
+    text-align: center;
+  }
+  
+  #img-div {
+    
+  }
+  
+  #image {
+    display: block;
+    max-width: 100%;
+    width: auto;
+    margin: 0 auto;
+  
+  }
+  
+  #img-caption {
+    margin-top: 20px;
+  }
+  
